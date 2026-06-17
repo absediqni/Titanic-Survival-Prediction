@@ -75,8 +75,9 @@ Titanic-Survival-Prediction/
 ├── dashboards/            # Power BI template files (.pbix)
 ├── requirements.txt       # Hardcoded environmental dependencies
 └── README.md              # Project documentation repository index
-
-# 🚀 Future Enhancements
+```
+---
+## 🚀 Future Enhancements
   * Deconstruct the workflow into an automated execution loop using Scikit-Learn Pipelines.
   * Create a lightweight cloud application layer using Streamlit or Flask.
   * Implement automated data ingestion or validation checks utilizing n8n integration engines.
